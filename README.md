@@ -57,5 +57,5 @@ Seafood items are the least ordered category, which suggests a need for targeted
 •	 In-store or online education about the variety and preparation of seafood may help customers feel more comfortable purchasing and trying it.
 # Summary
 This report analyzes Blinkit’s sales data, focusing on various attributes such as item characteristics and outlet specifics. Key findings include sales trends across different item types and outlets, insights into customer preferences, and recommendations for optimizing sales performance.Utilised PowerBI to perform dax calculations and cleaning the data using power query.
-•	 Created different chart types and streamlined  data analysis processes to monitor key performance indicators.
-•  Shared the insights with the concerned stakeholders and includes recommendations for improving the sales.
+*	 Created different chart types and streamlined  data analysis processes to monitor key performance indicators.
+*  Shared the insights with the concerned stakeholders and includes recommendations for improving the sales.
