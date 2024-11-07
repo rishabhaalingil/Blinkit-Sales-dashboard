@@ -2,8 +2,8 @@ This project entails the analysis of BlinkIT platform grocery data. To investiga
 # Objective
 To conduct a comprehensive analysis of blinkit’s sales performance,customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various key kpi’s and visualizations in powerbi.
 # Project Highlights
-1.Data walkthrough:The dataset contains around 8500 rows and different parameters related to the product such as item type,visibility,fat content,weight and the store such as outlet location type ,outlet size,outlet type,establishment year.
-2.Data Connection:The data which was in the form of a csv file was imported to the powerbi desktop.
+1. Data walkthrough:The dataset contains around 8500 rows and different parameters related to the product such as item type,visibility,fat content,weight and the store such as outlet location type ,outlet size,outlet type,establishment year.
+2. Data Connection:The data which was in the form of a csv file was imported to the powerbi desktop.
 3)Data Cleaning:Ensured the data’s accuracy by cleaning the data in powerbi using power query and improved the data quality. Data cleaning involved:
 •	Addressing missing values (e.g., imputation, removal).
 •	Ensuring consistency in item identifiers and outlet identifiers.
