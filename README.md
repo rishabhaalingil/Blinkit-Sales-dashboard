@@ -37,23 +37,23 @@ Around 65.4% of items are ordered from supermarket type 1 stores, indicating tha
 # Recommendations
 1. Customer Ratings of 3.9 – Focus on Improving Service:
 The customer ratings are currently at 3.9, which suggests there may be room for improvement in overall customer satisfaction. To enhance service quality, it’s essential to:
-•	 Actively collect feedback from customers through surveys or direct communication.
-•	 Identify pain points or recurring issues (e.g., delivery delays, product quality, customer service).
-•	 Take prompt action to resolve customer concerns and improve experiences in key areas.
-•	 Regularly monitor customer ratings to track improvements and maintain satisfaction.
-•	 Staff training and product quality checks may also help in boosting overall service and satisfaction.
+* Actively collect feedback from customers through surveys or direct communication.
+* Identify pain points or recurring issues (e.g., delivery delays, product quality, customer service).
+* Take prompt action to resolve customer concerns and improve experiences in key areas.
+* Regularly monitor customer ratings to track improvements and maintain satisfaction.
+*	 Staff training and product quality checks may also help in boosting overall service and satisfaction.
 2. Replicate Successful Strategies of Supermarket Type 1:
 Since supermarket type 1 stores account for a significant portion of the sales, it’s crucial to analyze and replicate their sales strategies across other store types:
-•	 Study the operational strategies of supermarket type 1 (e.g., pricing strategies, promotions, customer loyalty programs, product assortment, or in-store experience).
-•	 Implement these strategies in tier 2 and tier 3 stores where sales may not be performing as strongly.
-•	 Focus on inventory management, store layout optimization, and marketing efforts that could drive up foot traffic and online sales.
-•	 Also, evaluate staff training and customer engagement techniques to ensure consistency across store types.
+*	 Study the operational strategies of supermarket type 1 (e.g., pricing strategies, promotions, customer loyalty programs, product assortment, or in-store experience).
+*	 Implement these strategies in tier 2 and tier 3 stores where sales may not be performing as strongly.
+* Focus on inventory management, store layout optimization, and marketing efforts that could drive up foot traffic and online sales.
+*	 Also, evaluate staff training and customer engagement techniques to ensure consistency across store types.
 3. Low Demand for Seafood – Investigate and Boost Sales:
 Seafood items are the least ordered category, which suggests a need for targeted efforts to improve sales:
-•	 Investigate consumer preferences: Understand whether the lack of demand is due to pricing, availability, or consumer reluctance to purchase seafood.
-•	 Consider promotions like discounts, recipe suggestions, or pairing seafood with popular side dishes to increase its appeal.
-•	 Improve product offerings: Ensure seafood is fresh, high-quality, and diverse in terms of types and preparation options.
-•	 Marketing campaigns could focus on the health benefits and versatility of seafood, particularly in tier 3 cities where there might be a greater preference for low-fat items.
+*	 Investigate consumer preferences: Understand whether the lack of demand is due to pricing, availability, or consumer reluctance to purchase seafood.
+*	 Consider promotions like discounts, recipe suggestions, or pairing seafood with popular side dishes to increase its appeal.
+*	 Improve product offerings: Ensure seafood is fresh, high-quality, and diverse in terms of types and preparation options.
+* Marketing campaigns could focus on the health benefits and versatility of seafood, particularly in tier 3 cities where there might be a greater preference for low-fat items.
 •	 In-store or online education about the variety and preparation of seafood may help customers feel more comfortable purchasing and trying it.
 # Summary
 This report analyzes Blinkit’s sales data, focusing on various attributes such as item characteristics and outlet specifics. Key findings include sales trends across different item types and outlets, insights into customer preferences, and recommendations for optimizing sales performance.Utilised PowerBI to perform dax calculations and cleaning the data using power query.
