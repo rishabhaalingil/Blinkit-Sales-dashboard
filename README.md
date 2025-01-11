@@ -24,7 +24,9 @@ conclusions based on the data
 3. Fat content by outlet for total sales 
 4. Total Sales By Outlet Establishment
 5. Sales By Outlet Location
-6. Total sales,Average sales,Number of items,Average rating broken down by different outlet types 
+6. Total sales,Average sales,Number of items,Average rating broken down by different outlet types.
+# Live Dashboard
+Explore the live dashboard [here](https://app.powerbi.com/links/NanCWo0q4H?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare).
 # Key Insights
 1. Fruits and Vegetables Lead in Orders:
 Fruits and vegetables are the most commonly ordered items, with snacks following as the second most ordered category. This indicates that customers prioritize fresh produce and healthy options over processed snack foods.
